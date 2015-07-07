@@ -10,5 +10,6 @@
     <string name="pwenter">Please enter your password:</string>
     <string name="confirmlabel">Confirm Password:</string>
     <string name="confirm">Please confirm password:</string>
+    <string name="random">Please confirm password:</string>
 
 </resources>
